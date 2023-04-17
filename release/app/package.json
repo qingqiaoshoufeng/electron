@@ -1,0 +1,28 @@
+{
+  "name": "doctordesk",
+  "version": "1.0.0",
+  "description": "A foundation for scalable desktop apps",
+  "main": "./dist/main/main.js",
+  "author": {
+    "name": "shining3d",
+    "email": "shining3d@gmail.com"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r ts-node/register ../../.erb/scripts/electron-rebuild.js",
+    "link-modules": "node -r ts-node/register ../../.erb/scripts/link-modules.ts",
+    "rebuild": "node ./node_modules/.bin/electron-rebuild -f -w sqlite3"
+  },
+  "dependencies": {
+    "@shining3d/electronapp": "0.0.10",
+    "better-sqlite3": "7.6.2",
+    "native-reg": "^1.1.0",
+    "express": "4.17.3",
+    "cookie-parser": "1.4.6",
+    "fsevents": "2.3.2",
+    "tslib": "2.4.0"
+  },
+  "devDependencies": {
+    "electron-rebuild": "3.2.9"
+  },
+  "license": "MIT"
+}

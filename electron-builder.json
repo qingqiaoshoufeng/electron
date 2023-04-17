@@ -1,0 +1,115 @@
+{
+  "productName": "Aoralhub",
+  "appId": "co.shining.appbox",
+  "copyright": "Shining3d©2022",
+  "asar": false,
+  "asarUnpack": "**\\*.{node,dll}",
+  "files": ["dist", "resources", "node_modules", "package.json"],
+  "afterSign": ".erb/scripts/notarize.js",
+  "nodeGypRebuild": false,
+  "mac": {
+    "target": {
+      "target": "default",
+      "arch": ["arm64", "x64"]
+    },
+    "type": "distribution",
+    "hardenedRuntime": true,
+    "entitlements": "assets/entitlements.mac.plist",
+    "entitlementsInherit": "assets/entitlements.mac.plist",
+    "gatekeeperAssess": false,
+    "extendInfo": {
+      "CFBundleURLTypes": [
+        {
+          "CFBundleTypeRole": "Viewer",
+          "CFBundleURLSchemes": ["Aoralhub"],
+          "CFBundleURLName": "Aoralhub",
+          "CFBundleURLIdentifier": "co.shining.appbox"
+        }
+      ]
+    }
+  },
+  "dmg": {
+    "sign": false,
+    "background": "./src/bin/mac/background.png",
+    "contents": [
+      {
+        "x": 260,
+        "y": 195
+      },
+      {
+        "x": 515,
+        "y": 195,
+        "type": "link",
+        "path": "/Applications"
+      }
+    ]
+  },
+  "nsis": {
+    "oneClick": false,
+    "perMachine": true,
+    "allowElevation": false,
+    "allowToChangeInstallationDirectory": true,
+    "installerIcon": "./assets/icon.ico",
+    "uninstallerIcon": "./assets/icon.ico",
+    "installerHeaderIcon": "./assets/icon.ico",
+    "createDesktopShortcut": true,
+    "createStartMenuShortcut": true,
+    "shortcutName": "Aoralhub",
+    "include": "./src/bin/win/installer.nsh",
+    "displayLanguageSelector": true,
+    "warningsAsErrors": false,
+    "installerSidebar": "./src/bin/win/background.bmp",
+    "installerLanguages": ["en_US", "ja_JP", "zh_CN"]
+  },
+  "win": {
+    "icon": "assets/icon.ico",
+    "artifactName": "${productName}_${version}.${ext}",
+    "requestedExecutionLevel": "requireAdministrator",
+    "target": ["zip", "nsis"],
+    "verifyUpdateCodeSignature": false,
+    "signingHashAlgorithms": ["sha256"],
+    "signDlls": true,
+    "rfc3161TimeStampServer": "http://timestamp.comodoca.com/rfc3161",
+    "certificateFile": "./server.pfx",
+    "certificatePassword": "shining3d"
+  },
+  "linux": {
+    "target": ["AppImage"],
+    "category": "Development"
+  },
+  "directories": {
+    "app": "release/app",
+    "buildResources": "assets",
+    "output": "release/build"
+  },
+  "extraResources": [
+    "./assets/**",
+    {
+      "from": "./db/",
+      "to": "./app/db/"
+    },
+    {
+      "from": "./software/",
+      "to": "./app/software/"
+    },
+    {
+      "from": "./resources/",
+      "to": "./app/resources/"
+    },
+    {
+      "from": "./src/bin/${os}/",
+      "to": "./app/bin/"
+    },
+    {
+      "from": "./src/bin/",
+      "to": "./app/bin/",
+      "filter": ["command*"]
+    }
+  ],
+  "publish": [
+    {
+      "provider": "generic",
+      "url": "http://localhost:8082/"
+    }
+  ]
+}

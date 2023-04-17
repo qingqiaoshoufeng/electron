@@ -1,0 +1,227 @@
+{
+  "name": "doctordesk",
+  "version": "1.0.0",
+  "description": "A foundation for scalable desktop apps",
+  "scripts": {
+    "start": "npm run start:preload && npm run start:command && cross-env NODE_ENV=development electronmon -r ts-node/register/transpile-only ./src/main/main.ts",
+    "postinstall": "electron-builder install-app-deps",
+    "build": "cross-env NODE_ENV=production TS_NODE_TRANSPILE_ONLY=true webpack --config ./.erb/configs/webpack.config.main.prod.ts",
+    "config_build": "npm run start:preload && npm run start:command && ts-node ./.erb/scripts/clean.js && npm run build && ts-node .erb/scripts/install-native-dep.js",
+    "package_win": "npm run config_build && cross-env USE_HARD_LINKS=false electron-builder build --win",
+    "package_mac": "npm run config_build && cross-env USE_HARD_LINKS=false electron-builder build --mac ",
+    "package": "npm run config_build && cross-env USE_HARD_LINKS=false electron-builder build --mac --win ",
+    "lint": "cross-env NODE_ENV=development eslint . --ext .js,.jsx,.ts,.tsx",
+    "start:preload": "cross-env NODE_ENV=development TS_NODE_TRANSPILE_ONLY=true webpack --config ./.erb/configs/webpack.config.preload.dev.ts",
+    "start:command": "cross-env NODE_ENV=development TS_NODE_TRANSPILE_ONLY=true webpack --config ./.erb/configs/webpack.config.cli.dev.ts",
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": [
+      "cross-env NODE_ENV=development eslint --cache"
+    ],
+    "*.json,.{eslintrc,prettierrc}": [
+      "prettier --ignore-path .eslintignore --parser json --write"
+    ],
+    "*.{css,scss}": [
+      "prettier --ignore-path .eslintignore --single-quote --write"
+    ],
+    "*.{html,md,yml}": [
+      "prettier --ignore-path .eslintignore --single-quote --write"
+    ]
+  },
+  "author": {
+    "name": "shining3d",
+    "email": "shining3d@shining3d.com",
+    "url": "https://www.dental3dcloud.com/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "electron",
+    "boilerplate",
+    "react",
+    "typescript",
+    "ts",
+    "sass",
+    "webpack",
+    "hot",
+    "reload"
+  ],
+  "homepage": "https://www.dental3dcloud.com/",
+  "electronmon": {
+    "patterns": [
+      "!temp/**",
+      "!db/**",
+      "!resources/**",
+      "!software/**",
+      "!logs/**",
+      "!src/preload/**"
+    ]
+  },
+  "jest": {
+    "testURL": "http://localhost/",
+    "testEnvironment": "jsdom",
+    "transform": {
+      "\\.(ts|tsx|js|jsx)$": "ts-jest"
+    },
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/.erb/mocks/fileMock.js",
+      "\\.(css|less|sass|scss)$": "identity-obj-proxy"
+    },
+    "moduleFileExtensions": [
+      "js",
+      "jsx",
+      "ts",
+      "tsx",
+      "json"
+    ],
+    "moduleDirectories": [
+      "node_modules",
+      "release/app/node_modules"
+    ],
+    "testPathIgnorePatterns": [
+      "release/app/dist"
+    ],
+    "setupFiles": [
+      "./.erb/scripts/check-build-exists.ts"
+    ]
+  },
+  "devDependencies": {
+    "@teamsupercell/typings-for-css-modules-loader": "^2.5.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@types/detect-port": "^1.3.2",
+    "@types/jest": "^27.4.1",
+    "@types/node": "^17.0.23",
+    "@types/terser-webpack-plugin": "^5.0.4",
+    "@types/webpack-bundle-analyzer": "^4.4.1",
+    "@types/webpack-env": "^1.16.3",
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "@typescript-eslint/parser": "^5.18.0",
+    "browserslist-config-erb": "^0.0.3",
+    "chalk": "^4.1.2",
+    "concurrently": "^7.1.0",
+    "core-js": "^3.21.1",
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.7.1",
+    "css-minimizer-webpack-plugin": "^3.4.1",
+    "detect-port": "^1.3.0",
+    "electron": "19.0.9",
+    "electron-builder": "23.1.0",
+    "electron-devtools-installer": "^3.2.0",
+    "electron-notarize": "^1.2.1",
+    "electron-rebuild": "^3.2.7",
+    "electronmon": "^2.0.2",
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-erb": "^4.0.3",
+    "eslint-import-resolver-typescript": "^2.7.1",
+    "eslint-import-resolver-webpack": "^0.13.2",
+    "eslint-plugin-compat": "^4.0.2",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.1.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "husky": "^7.0.4",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.5.1",
+    "lint-staged": "^12.3.7",
+    "mini-css-extract-plugin": "^2.6.0",
+    "opencollective-postinstall": "^2.0.3",
+    "prettier": "^2.6.2",
+    "rimraf": "^3.0.2",
+    "sass": "^1.49.11",
+    "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1",
+    "terser-webpack-plugin": "^5.3.1",
+    "ts-jest": "^27.1.4",
+    "ts-loader": "^9.2.8",
+    "ts-node": "^10.7.0",
+    "tslib": "2.4.0",
+    "typescript": "^4.6.3",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.71.0",
+    "webpack-bundle-analyzer": "^4.5.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.8.0",
+    "webpack-merge": "^5.8.0"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.0.8",
+    "@shining3d/electronapp": "0.0.10",
+    "adm-zip": "^0.5.9",
+    "ali-oss": "^6.17.1",
+    "archiver": "~5.3.1",
+    "args": "^5.0.3",
+    "auto-launch": "~5.0.5",
+    "aws-sdk": "^2.1259.0",
+    "better-sqlite3": "7.6.2",
+    "chokidar": "~3.5.3",
+    "compressing": "~1.9.0",
+    "connect-history-api-fallback": "^2.0.0",
+    "cookie-parser": "1.4.6",
+    "copy-dir": "^1.3.0",
+    "debug": "~2.6.9",
+    "download": "~8.0.0",
+    "electron-asar-hot-updater": "^0.1.3",
+    "electron-debug": "^3.2.0",
+    "electron-log": "^4.4.6",
+    "electron-reloader": "^1.2.3",
+    "electron-store": "^8.1.0",
+    "electron-updater": "^5.0.5",
+    "express": "4.17.3",
+    "fetch-installed-software": "^0.0.7",
+    "format-bytes": "^1.0.1",
+    "history": "^5.3.0",
+    "http-errors": "~1.6.3",
+    "iconv-lite": "~0.6.3",
+    "internet-available": "^1.0.0",
+    "is-electron": "^2.2.1",
+    "is-undefined": "~1.0.11",
+    "is-win": "~1.0.10",
+    "jade": "~1.11.0",
+    "js-yaml": "~4.1.0",
+    "lodash": "^4.17.21",
+    "log4js": "^6.6.1",
+    "md5": "^2.3.0",
+    "moment": "^2.29.4",
+    "morgan": "~1.9.1",
+    "native-reg": "^1.1.0",
+    "node-cmd": "^5.0.0",
+    "node-machine-id": "^1.1.12",
+    "node-schedule": "^2.1.0",
+    "node-version-compare": "^1.0.3",
+    "open": "^8.4.0",
+    "progress-stream": "^2.0.0",
+    "semver-compare": "~1.0.0",
+    "serialize-error": "8.1.0",
+    "shell-path": "^2.1.0",
+    "spawno": "~2.1.1",
+    "strip-ansi": "^6.0.0",
+    "sudo-prompt": "^9.2.1",
+    "tree-kill": "^1.2.2",
+    "unzip": "^0.1.11",
+    "ws": "^8.8.1",
+    "xml2js": "^0.4.23"
+  },
+  "devEngines": {
+    "node": ">=14.x",
+    "npm": ">=7.x"
+  },
+  "browserslist": [],
+  "prettier": {
+    "overrides": [
+      {
+        "files": [
+          ".prettierrc",
+          ".eslintrc"
+        ],
+        "options": {
+          "parser": "json"
+        }
+      }
+    ],
+    "singleQuote": true
+  }
+}

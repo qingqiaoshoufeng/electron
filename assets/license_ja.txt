@@ -1,0 +1,215 @@
+SHINING 3D TERMS OF USE
+
+Welcome to use SHINING 3D (refers SHINING 3D Tech Co., Ltd. and its affiliated companies including but not limited to SHINING 3D Technology GmbH, SHINING 3D Technology Inc.) software and services!
+
+In order to use SHINING 3D software and services, you should read and abide by the SHINING 3D Terms of Use (hereinafter referred to as the “Agreement”) and SHINING 3D Privacy Policy. Please carefully read and fully understand each clause of the Agreement, especially the clauses exempting or limiting SHINING 3D’s liability, clauses restricting customers’ rights and clauses stipulating dispute resolution and jurisdiction, which are identified in bold or underlined, and you should be focused on reading these clauses.
+
+YOU HAVE NO RIGHT TO DOWNLOAD, INSTALL OR USE THE SERVICES UNLESS YOU HAVE FULLY UNDERSTOOD AND ACCEPTED THE AGREEMENT. BY CLICKING “I ACCEPT”, OR BY DOWNLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SERVICES, YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE THE SERVICES, YOU AGREE TO BE BOUND BY AMENDED AND RESTATED SHINING 3D TERMS AND CONDITIONS. THE TERMS AND CONDITIONS ARE LEGALLY EFFECTIVE BETWEEN YOU AND SHINING 3D.
+
+1 Application and Scope
+
+1.1 Your use of SHINING 3D Dental Cloud Platform and its ancillary products and services (hereinafter referred to as "Services" or ''Services of SHINING 3D") is subject to the terms and conditions contained in this Agreement as well as those provided in the following (hereinafter collectively referred to as “Terms and Conditions”):
+
+a) SHINING 3D Privacy Policy; and
+
+b) Any other rules, policies or notices as adopted and published regarding SHINING 3D Services.
+
+1.2 If you are using our Services on behalf of a corporation or other legal entity, you represent that you are authorized to accept these Terms and Conditions on behalf of such corporation or other legal entity.
+
+You agree to require each of your employees to be bound by the SHINING 3D Terms and Conditions and you agree to remain responsible and liable for all acts and omissions of your employees in connection with the Services, including any breaches of the Terms and Conditions. All references to your access and/or use of SHINING 3D Services herein include access and/or use of the Services by your employees. You agree that each of your employees is responsible for maintaining the confidentiality of any password that such employee may use to access the Services, and you agree not to let any employee transfer a password or user name, or lend or otherwise transfer use of or access to the Services, to other employees or any third party. If an employee leaves your employ, or if you wish to disable an employee’s access to the Services, you are responsible for any such changes. You are fully responsible for all interaction with the Services that occurs in connection with passwords or usernames associated with your employees (including any former employees).
+
+1.3 You acknowledge that you are 18 years of age or older. Individuals who are under the age of majority in their jurisdiction are not allowed to use our Services or transmit or otherwise submit personally identifiable information to SHINING 3D.
+
+1.4 You may be required to enter into any separate agreement or agree to any other terms and conditions, whether online or offline, with SHINING 3D for the Services or any other services ancillary to the use of the SHINING 3D Dental Cloud Platform (“Additional Agreements”).
+
+2 Account
+
+2.1 You must register as a member on the SHINING 3D Dental Cloud Platform in order to access and use our Services.
+
+2.2 You are responsible for the security of your account and all activities related to your account. You ensure that you will not share your account and password with others (except the authorized users). If you find that your account has been used without authorization, please contact us via [dp@shining3d.com].
+
+2.3 If you are aware of that your account and password have been stolen, or any other situation without your legal authorization, you should immediately notify SHINING 3D in an effective way and provide necessary information (such as customer information, situation description, proof materials and claims, etc., in order for SHINING 3D to verify identity and events). SHINING 3D will handle it in accordance with laws, regulations and service rules after receiving your valid notice and verifying your identity. The relevant responsibilities and consequences arising from SHINING 3D's processing in accordance with this article shall be borne by you.
+
+2.4 If the information you provide has defects, which results in SHINING 3D being unable to verify your identity or judging your requests, etc., and thus causing SHINING 3D to fail to deal with your requests in a timely manner, you shall be responsible for the losses caused to you. At the same time, you understand that it takes a reasonable period of time for SHINING 3D to deal with your request. SHINING 3D assumes no responsibility for the losses you have incurred before measures to be taken by SHINING 3D and the losses which can not being attributable to SHINING 3D after measures have been taken.
+
+2.5 You are responsible for the accuracy of your account. Shining 3D may require you to provide further identity information, business qualifications and information in order to complete identity authentication or qualification verification for the activation of certain services. You can order and use related services only after completing the corresponding identity authentication and qualification verification. You understand and agree that Shining 3D has right to check by itself or through entrusting a third party to check whether the information you provide is true, accurate and valid during real-name authentication. You know and agree that if you fail to complete the real-name authentication in accordance with relevant laws, regulations and the requirements of Shining 3D, you will not be able to order Shining 3D services, which will also affect your access or use of Shining 3D services. You are responsible for the accuracy of your account.You ensure that all your account information (including any information provided by you or your authorized users with your registration) is true, accurate and remain true and accurate. We will comply with applicable laws and regulations and fully protect your information as we stated in SHINING 3D Privacy Policy.
+
+2.6 Your account is designed to provide you with a location where you can access and manage your account information and use our Services. Your account may include the following features:
+
+a) Account management;
+
+b) Data management and transfer;
+
+c) Order management;
+
+d) Agency management;
+
+e) Communication.
+
+3 Use of Services
+
+3.1 Access and license.
+
+Any software that is made available to download by or through SHINING 3D Services ("Software") is the copyrighted work of SHINING 3D, its suppliers and/or its licensors. Use of the Software may be governed by the terms of the end user license agreement or other agreement applicable to the Software (each, a “License Agreement”). You may not install any Software that is accompanied by or includes a License Agreement unless you have agreed to the applicable License Agreement terms.
+
+The Software is made available for downloading solely for use by end users in accordance with the License Agreement and/or these Terms and Conditions. Except to the extent expressly permitted in any applicable License Agreement, or expressly authorized under applicable law overriding any of the following restrictions, you agree that you will not sell, lease, lend, convey, transmit, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or attempt to derive source code from the Software.
+
+Any reproduction, redistribution or other use or exploitation of the Software not in accordance with the License Agreement and/or these Terms and Conditions is expressly prohibited by law, and may result in civil and criminal penalties. Violators will be prosecuted to the maximum extent permitted under law and equity.
+
+WITHOUT LIMITING THE FOREGOING, COPYING OR REPRODUCTION OF THE SOFTWARE TO ANY OTHER SERVER OR LOCATION FOR FURTHER REPRODUCTION OR REDISTRIBUTION IS EXPRESSLY PROHIBITED, UNLESS SUCH REPRODUCTION OR REDISTRIBUTION IS EXPRESSLY PERMITTED BY ANY LICENSE AGREEMENT ACCOMPANYING SUCH SOFTWARE.
+
+3.2 Obligation. As a condition of your access and use of the Services, you agree that you will comply with any and all applicable laws and regulations, and will not engage in fraudulent or deceptive practices, when using the Services.
+
+3.2.1 With respect to content made available via the Services, you agree that you will not:
+
+a) copy, reproduce, download, re-publish, sell, distribute or resell any Services or any information, text, images, graphics, video clips, sound, directories, files, databases or listings, etc. made available via the Services (the “Content”);
+
+b) without limiting the generality of the foregoing, copy, reproduce, download, compile or otherwise use any Content for the purposes of operating a business that competes with SHINING 3D, or otherwise commercially exploit the Content. Systematic retrieval of Content from the Services to create or compile, directly or indirectly, a collection, compilation, database or directory (whether through robots, spiders, automatic devices or manual processes) without written permission from SHINING 3D is prohibited; or
+
+c) upload, post, make available, use, encourage, promote, facilitate the use or submission or copy, reproduce, download or compile any Content or materials (i) that are defamatory, obscene, abusive, invasive of privacy, or offensive, including but not limited to content related to child pornography, bestiality, other types of illegal sexual content, and etc.; (ii) obtained from or via the Services for any purpose not expressly permitted in the Agreement or the Additional Agreements; or (iii) that infringe or misappropriate the intellectual property rights or proprietary rights of SHINING 3D or others in connection with your use of the Services.
+
+3.2.2 you agree that you will not:
+
+a) conduct any monitoring or crawling of any SHINING 3D Services including the SHINING 3D Dental Cloud Platform;
+
+b) engage in any denial of service (DoS) attacks, distributed denial of service (DDoS) attacks, or any other forms of network attacks;
+
+c) engage in any behavior that may interfere with the proper functioning of any Services; including mail/news-bombing, broadcast attacks, flooding, and any other relevant network interference techniques;
+
+d) operate any network services, such as open proxies, open mail relays, open recursive domain name servers, and etc; or
+
+e) otherwise do any act or thing which, in the sole opinion of SHINING 3D, constitutes network abuse of any Services.
+
+3.2.3 You agree that you will not distribute, send, or facilitate the sending or any unsolicited electronic commercial messages, or engage in any form of spamming activities that are in breach of the laws and regulations of any relevant jurisdiction or otherwise do any act or thing which, in the sole opinion of SHINING 3D, constitutes promotion and marketing message abuse.
+
+3.2.4 You acknowledge and agree that by disclosing and/or submitting any information to us, you warrant that you have the full power, legal capacity and authority to disclose and/or submit such information, and that the use of such information in accordance with these Terms and Conditions shall not expose us to any claim, liability, or prosecution.
+
+3.2.5 You agree as follows in relation to any data or information that you provide to us for processing, storage, hosting or any other purposes in connection with your purchase and use of our Services (“Information”).
+
+a) You promise and guarantee that all Information you upload to SHINING 3D Dental Cloud Platform is collected, transferred, processed in accordance with applicable laws and regulations.
+
+b) Except as provided below, Information that you provide to us will be transferred to, stored and processed in the country in which we maintain facilities for the Services. This may be in a different jurisdiction from where you are located, and accordingly, such Information may need to be transferred to an overseas jurisdiction.
+
+c) You acknowledge and agree that any such overseas transfer or processing of such Information is necessary to process and administer your customer account and to provide the Services and you consent to the same. You further agree and consent to SHINING 3D processing such Information on your behalf pursuant to these Terms and Conditions and you appoint us to perform any such transfer of such Information to any such country and to store and process such Information to provide our Services.
+
+d) We will not disclose such Information outside of us, our affiliates or our third party service providers unless: i) you request us to do so; ii) your end user has provided consent for us to do so; iii) as provided in these Terms and Conditions or in accordance with your agreement(s) with us, or iv) as required by and to comply with applicable law, legal process or lawful government requests, or in respect of any claims or potential claims brought against us or our shareholders, subsidiaries or affiliates.
+
+3.3 Links to third parties. THE LINKS IN THIS SITE WILL LET YOU LEAVE SHINING 3D'S SITE. THE LINKED SITES ARE NOT UNDER THE CONTROL OF SHINING 3D AND SHINING 3D IS NOT RESPONSIBLE FOR THE CONTENTS OF ANY LINKED SITE OR ANY LINK CONTAINED IN A LINKED SITE, OR ANY CHANGES OR UPDATES TO SUCH SITES. SHINING 3D IS NOT RESPONSIBLE FOR WEBCASTING OR ANY OTHER FORM OF TRANSMISSION RECEIVED FROM ANY LINKED SITE. SHINING 3D IS PROVIDING THESE LINKS TO YOU ONLY AS A CONVENIENCE, AND THE INCLUSION OF ANY LINK DOES NOT IMPLY ENDORSEMENT BY SHINING 3D OF ANY LINKED SITES. YOU AGREE THAT YOUR USE OF THIRD PARTY WEBSITES AND RESOURCES, INCLUDING WITHOUT LIMITATION, YOUR USE OF ANY CONTENT, INFORMATION, DATA, ADVERTISING, PRODUCTS, OR OTHER MATERIALS ON OR AVAILABLE THROUGH SUCH WEBSITES AND RESOURCES, IS AT YOUR OWN RISK AND IS SUBJECT TO THE TERMS AND CONDITIONS OF USE APPLICABLE TO SUCH SITES AND RESOURCES.
+
+3.4 Service modification. SHINING 3D may discontinue or make any changes to the Services at any time. If it would materially decrease the functionality of the Services, SHINING 3D will make commercially reasonable efforts to inform you of the change with reasonable advance notice before it goes into effect, provided that your have subscribed to be informed about those changes. SHINING 3D may make the changes, and will not be obliged to provide notice, if the discontinuation or change is necessary to address and emergency or threat to the security or integrity of the Services, comply with or respond to litigation, address intellectual property rights concerns, or comply with the laws or authorities’ requests.
+
+3.5 Unsolicited Idea Submission Policy. SHINING 3D OR ANY OF ITS EMPLOYEES DO NOT ACCEPT OR CONSIDER UNSOLICITED IDEAS, INCLUDING IDEAS FOR NEW ADVERTISING CAMPAIGNS, NEW PROMOTIONS, NEW PRODUCTS OR TECHNOLOGIES, PROCESSES, MATERIALS, MARKETING PLANS OR NEW PRODUCT NAMES. PLEASE DO NOT SEND ANY ORIGINAL CREATIVE ARTWORK, SAMPLES, DEMOS, OR OTHER WORKS. THE SOLE PURPOSE OF THIS POLICY IS TO AVOID POTENTIAL MISUNDERSTANDINGS OR DISPUTES WHEN SHINING 3D'S PRODUCTS OR MARKETING STRATEGIES MIGHT SEEM SIMILAR TO IDEAS SUBMITTED TO SHINING 3D. SO, PLEASE DO NOT SEND YOUR UNSOLICITED IDEAS TO SHINING 3D OR ANYONE AT SHINING 3D. IF, DESPITE OUR REQUEST THAT YOU NOT SEND US YOUR IDEAS AND MATERIALS, YOU STILL SEND THEM, PLEASE UNDERSTAND THAT SHINING 3D MAKES NO ASSURANCES THAT YOUR IDEAS AND MATERIALS WILL BE TREATED AS CONFIDENTIAL OR PROPRIETARY.
+
+3.6 For data security, you shall be responsible for the backup of your data. Products or services of SHINING 3D may configure data backup functions or tools for you, and you are responsible for operating such backup.
+
+3.7 If SHINING 3D discovers on its own or finds that you may violate relevant laws and regulations or this agreement according to information from relevant government departments, complaints from obligee, etc., SHINING 3D has the right to make its own judgment independently based on the knowledge of ordinary people, and unilaterally take one or more of the following measures at any time:
+
+3.7.1 You are required to delete or modify the relevant content immediately.
+
+3.7.2 Restrict or suspend the provision of all or part of SHINING 3D services to you (including but not limited to directly taking some of your services offline and withdrawing relevant resources, taking action restrictions on your account/account freezing, etc.).
+
+3.7.3 Terminate providing SHINING 3D services to you (including but not limited to directly take all your services offline and withdrawing relevant resources, etc.).
+
+3.7.4 If SHINING 3D terminates providing services to you or terminates the agreement in accordance with this agreement, the fees you prepaid shall be owned by SHINING 3D (if any) as liquidated damages.
+
+3.7.5 Pursue your other liabilities in accordance with law.
+
+3.7.6 The measures taken by SHINING 3D correspondingly in accordance with this agreement (including but not limited to suspending services, deducting fees, terminating the agreement, etc.) shall not be regarded as by SHINING 3D's breach of contract. Any losses of you(including but not limited to business suspension, data clearing, etc.) arised therefrom shall be borne by yourself. You shall bear liabilities and consequences caused by your violation of this agreement and compensate for any losses of SHINING 3D or any third parties caused thereby.
+
+4 Proprietary Rights
+
+4.1 The information and materials made available through SHINING 3D Services, including the software, are and shall remain the property of SHINING 3D, its subsidiaries, affiliates, licensors and/or suppliers, and are protected by copyright, trademark, patent, and/or other proprietary rights and laws.
+
+4.2 Subject to your compliance with these Terms and Conditions, solely for so long as you are permitted by SHINING 3D to access and use the Services, and provided that you keep intact all copyright and other proprietary notices, you may
+
+(a) view any content on SHINING 3D Services to which we provide you access hereunder on any single computer solely for personal, informational, non-commercial purposes; and
+
+(b) download and print one (1) copy of materials that SHINING 3D specifically makes available for downloading (such as white papers) (the "Documents") from this platform solely for personal, informational, non-commercial purposes, provided that the Documents may not be modified or altered in any way.
+
+4.3 You may not use, download, upload, copy, print, display, perform, reproduce, publish, license, post, transmit, rent, lease, modify, loan, sell, distribute, or create derivative works based (whether in whole or in part) on, the Services or any information from SHINING 3D Services, in whole or in part, without the express prior written authorization of SHINING 3D.
+
+4.4 Elements of the SHINING 3D Dental Cloud Platform and other Services are protected by copyright, trade dress, trademark, unfair competition, and/or other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound, or image from the Services may be copied or retransmitted unless expressly permitted in writing by SHINING 3D. Nothing contained on the Services should be construed as granting, by implication, estoppel or otherwise, any license or right to use any of SHINING 3D’s or its affiliates’ or suppliers’ trade names, trademarks or service marks without SHINING 3D’s express prior written consent.
+
+5 Disclaimer of Warranties
+
+5.1 SHINING 3D AND/OR ITS RESPECTIVE SUBSIDIARIES, AFFILIATES, SUPPLIERS AND LICENSORS AND ITS AND THEIR DIRECTORS, OFFICERS, EMPLOYEES, AGENTS AND REPRESENTATIVES MAKE NO REPRESENTATIONS ABOUT THE SITE, ANY PRODUCTS AND SERVICES CONTAINED ON THE SITE OR THE SUITABILITY OF THE INFORMATION CONTAINED IN THE MATERIALS, INFORMATION, CONTENT, DOCUMENTS, AND RELATED GRAPHICS PUBLISHED ON THIS SITE FOR ANY PURPOSE. THE SITE, ANY PRODUCTS OR SERVICES (INCLUDING WITHOUT LIMITATION, THIRD PARTY PRODUCTS AND SERVICES) OBTAINED THROUGH THE SITE, AND ALL SUCH INFORMATION, CONTENT, DOCUMENTS, AND RELATED GRAPHICS ARE PROVIDED FOR YOUR USE AT YOUR OWN RISK AND "AS IS" WITHOUT WARRANTY OF ANY KIND. SHINING 3D AND/OR ITS RESPECTIVE SUBSIDIARIES, AFFILIATES, SUPPLIERS AND LICENSORS HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS SITE, SUCH PRODUCTS AND SERVICES AND SUCH INFORMATION, CONTENT, DOCUMENTS, AND RELATED GRAPHICS, INCLUDING ALL IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+5.2 PLEASE NOTE THAT THE LICENSE AGREEMENT APPLICABLE TO ANY SOFTWARE AVAILABLE THROUGH THE SHINING 3D SERVICES MAY CONTAIN EXPRESS (BUT NOT IMPLIED) WARRANTIES APPLICABLE TO SOFTWARE, WHICH WILL GOVERN THAT PARTICULAR SOFTWARE. EXCEPT AS EXPRESSLY WARRANTED BY SHINING 3D IN SUCH LICENSE AGREEMENT, THE SOFTWARE IS GOVERNED BY THE DISCLAIMER OF WARRANTIES SET FORTH IN THE PREVIOUS PARAGRAPH OF THIS SECTION 5.
+
+6 Limitation of Liability
+
+6.1 To the maximum extent permitted under applicable law, the Services are provided “as is”, “as available” and “with all faults”, and SHINING 3D hereby expressly disclaims any and all warranties, express or implied, including but not limited to, any warranties of condition, quality, durability, performance, accuracy, reliability, merchantability or fitness for a particular purpose, and non-infringement, or as to the Services being uninterrupted, error free, free of harmful components, secure, or not otherwise causing damage or loss of functionality or data.
+
+To the maximum extent permitted under applicable law, SHINING 3D makes no representations or warranties on the validity, accuracy, correctness, reliability, quality, stability, completeness or currency of any information provided on or through the Services; SHINING 3D does not represent or warrant that the manufacture, importation, export, distribution, offer, display, purchase, sale and/or use of products or services offered or displayed via the Services does not violate any third party rights; and SHINING 3D makes no representations or warranties of any kind concerning any product or service offered or displayed on the via the Services. Any material downloaded or otherwise obtained through the Services is done at your sole discretion and risk and you are solely responsible for any damage to the Services or loss of data that may result from the download of any such material. No advice or information, whether oral or written, obtained by you from SHINING 3D or through or from the Services shall create any warranty not expressly stated herein.
+
+SAVE ONLY FOR ANY WARRANTIES, REPRESENTATIONS, CONDITIONS AND UNDERTAKINGS BY SHINING 3D EXPRESSLY SET FORTH IN THIS AGREEMENT, SHINING 3D HEREBY EXCLUDES ALL OTHER WARRANTIES, REPRESENTATIONS, CONDITIONS AND UNDERTAKINGS, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW.
+
+6.2 You shall be responsible for the source and content of data you transmit and process. SHINING 3D reminds you to carefully judge the legality of the data source and content. You shall bear the corresponding results and responsibilities caused by violation of laws, regulations, departmental rules or national policies by the content of the data.
+
+6.3 You hereby agree that SHINING 3D is not responsible and shall have no liability to you, for any material posted or submitted by others, including defamatory, offensive or illicit material and that the risk of damages from such material rests entirely with you.
+
+SHINING 3D reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you shall cooperate with SHINING 3D in asserting any available defenses and indemnify and hold SHINING 3D harmless against the reasonable legal fees incurred by SHINING 3D in that regard. To the maximum extent permitted under applicable law, SHINING 3D shall not be liable for any special, direct, indirect, punitive, incidental or consequential damages or any damages whatsoever (including but not limited to damages for loss of profits or savings, business interruption, loss of information), whether in contract, negligence, tort, equity or otherwise or any other damages resulting from any of the following:
+
+a) your use or inability to use the Services; any defect in goods, samples, data, information or services purchased or obtained from you or any other third party through the Services;
+
+b) your violation of any third party rights, or claims against you by any party that they are entitled to defense or indemnification in relation to assertions of rights, demands or claims by any third party claimants;
+
+c) unauthorized access by third parties to your data or private information;
+
+d) your statements or conducts; or
+
+e) any matters relating to Services however arising, including negligence.
+
+Notwithstanding any of the foregoing provisions, unless otherwise provided in the Terms and Conditions or service level agreements of the relevant Services, the aggregate liability of SHINING 3D, and their respective employees, agents, affiliates, representatives or anyone acting on their behalf with respect to you for any and all claims arising from or in connection with the Services or any use or inability to use the same during any calendar year shall be limited to, in aggregate, the greater of (a) the amount of fees you have paid to SHINING 3D or its affiliates for the Services during the calendar year; or (b) the amount prescribed by the terms of relevant service level agreements in connection with your use of specific Services. The preceding sentence shall not preclude the requirement by you to prove actual damages. All claims against SHINING 3D in respect of any of the matters referenced in this Clause must be filed within one (1) year from the date the cause of action arose.
+
+6.4 The limitations and exclusions of liability to you under the Terms and Conditions shall apply to the maximum extent permitted by law and shall apply whether or not SHINING 3D has been advised of or should have been aware of the possibility of any such losses arising.
+
+7 Indemnification
+
+7.1 You hereby agree to indemnify and hold SHINING 3D, its respective affiliates, directors, officers and employees harmless from and against any and all losses, claims, liabilities which may arise from your use of the Services (including but not limited to the display of your information on the SHINING 3D Dental Cloud Platform, the submission of unlawful materials to the SHINING 3D Dental Cloud Platform or the relevant ancillary features of any Services, and etc.) or from your breach of any of the Terms.
+
+7.2 You hereby further agree to indemnify and hold SHINING 3D, its affiliates, directors, officers and employees harmless, from and against any and all losses, damages, claims, liabilities (including legal costs on a full indemnity basis) which may arise, directly or indirectly, as a result of any claims asserted by any third party claimants or other third parties relating to products displayed on the SHINING 3D Dental Cloud Platform.
+
+8 Force Majeure
+
+8.1 SHINING 3D shall be under no liability to the Customer in respect of anything which, in the absence of this provision, may constitute breach by SHINING 3D of the Agreement arising by reason of force majeure, namely, circumstances beyond the control of SHINING 3D which shall include (but shall not be limited to) acts of God, perils of the sea or air, fire, flood, drought, explosion, sabotage, accident, embargo, riot, civil commotion, including acts of local government and parliamentary authority and labour disputes of whatever nature and for whatever cause arising including (but without prejudice to the generality of the foregoing) work to rule, overtime bars, strikes and lockouts.
+
+9 Miscellaneous
+
+9.1 These Terms and Conditions contain the entire agreement between you and SHINING 3D with respect to SHINING 3D Services and supersede all prior or contemporaneous communications and proposals, whether electronic, oral or written, between you and SHINING 3D with respect to this Site.
+
+9.2 You hereby acknowledge that you shall have no power or authority to assume or create any obligation or responsibility on behalf of SHINING 3D. A party may only waive its rights under these Terms and Conditions, by a written document executed by both parties. Any failure to enforce any provision of these Terms and Conditions shall not constitute a waiver thereof or of any other provision hereof. If any provision of these Terms and Conditions is found to be unlawful, void or for any reason unenforceable, that provision will be deemed severable from these Terms and Conditions and will not affect the validity and enforceability of any remaining provision. You may not assign, transfer or sublicense any or all of your rights or obligations under these Terms and Conditions without SHINING 3D’s express prior written consent.
+
+9.3 Any heading, caption or section title contained herein is inserted only as a matter of convenience, and in no way defines or explains any section or provision hereof. SHINING 3D will not be responsible for failures to fulfill any obligations due to causes beyond its control.
+
+9.4 For upgrades of technology and service system, or business strategy adjustments, cooperations with changes of national major technologies, regulations and policies, SHINING 3D does not guarantee that a certain kind of service will be permanently provided. SHINING 3D has right to change the form, specification or other aspects(such as the price and billing model of the service) of the service provided. SHINING 3D will try its best and use one or more methods of website announcements, in-site letters, emails or text messages to notice you in advance before terminating the service or making such changes.
+
+9.5 Based on the timeliness, complexity, efficiency and other characteristics of network services, as well as regulatory requirements, policy adjustments and other reasons, you agree that SHINING 3D may adjust this Agreement and its relevant service rules from time to time, and make announcements through website proclamation, emails notification, SMS notification, system message, in-site letter, etc.. If you continue to use services of SHINING 3D after such adjustment, which means you have fully read, understood and accepted the revised content, and will also follow the modified content.
+
+10 Termination and Suspension
+
+10.1 The Agreement will commence when you accept the Agreement or first download, install, access, or use the Services and continue until termination.
+
+10.2 To the extent permitted under applicable law, SHINING 3D may, at its sole discretion, terminate the Agreement, or suspend or terminate your access to the Services or any aspect of the Services, immediately upon written notice to you if:
+
+a) You violate any provision of the Agreement;
+
+b) SHINING 3D reasonably believes that you have violated any applicable laws, or engaged in any fraudulent or deceptive activity, in connection with your use of the Services;
+
+c) you enter into liquidation, administrative receivership, bankruptcy or make any voluntary agreement with your creditors or are unable to pay your debts as they fall due; or
+
+d) SHINING 3D, at its sole discretion, terminates its provision of or access to the Services (i) in your jurisdiction or industry sector or field of business, or (ii) for all of its users or customers.
+
+10.3 You may terminate your account and these Terms and Conditions at any time by following the instructions provided within the Services.
+
+10.4 Except as expressly required by law, if either party terminates the Agreement in accordance with any of the provisions of the Agreement, neither party will be liable to the other because of the termination, for expenditures or commitments made in connection with the Agreement or damages caused by the loss of prospective profits or anticipated sales. Termination will not, however, relieve either party of obligations incurred prior to the effective date of the termination.
+
+11 Applicable Law and Jurisdiction
+
+11.1 You agree to the non-exclusive jurisdiction of an appropriate court where the defendant domiciled for any action or proceeding arising out of or related to these Terms and Conditions; and
+
+11.2 Any disputes arising under or in connection with these Terms and Conditions (including any of our policies referred to herein) and/or the Services shall be governed by and construed in accordance with the laws of China without regard to applicable conflict of law provisions.
+
+12 Contacting SHINING 3D
+
+If you have any questions regarding the meaning or application of these Terms and Conditions, please direct such questions to [dp@shining3d.com]. Please note that e-mail communications will not necessarily be secure; accordingly, you should not include any sensitive information in your e-mail correspondence with SHINING 3D.
